@@ -1,0 +1,18 @@
+{
+  "name": "pokeDIO",
+  "version": "1.0.0",
+  "description": "Pokemon battle NFT game",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "truffle": "^5.4.10"
+  }
+}
